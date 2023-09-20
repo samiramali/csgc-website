@@ -25,9 +25,9 @@ the departure date of your travel. Presuming the travel request is approved, a
 link to a travel approval form will be provided along with further instructions.
 
 Requests for support for additional trips in a given year, or for
-conference attendance without a presentation, will be considered but
+conference attendance without a presentation will be considered but
 not necessarily approved in all cases. Senior PhD students, for whom
-multiple trips in a year are common, are more likely to receive multiple
+multiple trips in a year are common, and are more likely to receive multiple
 funding awards in a given year.
 
 Due to funding constraints, support levels are limited to:
